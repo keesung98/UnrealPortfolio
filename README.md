@@ -7,7 +7,9 @@ Unreal final portfolio
 
 ### 캐릭터 IK
 
-[![Video Label](http://img.youtube.com/vi/9xf23JAV5D0/0.jpg)]
+![Video Label](http://img.youtube.com/vi/9xf23JAV5D0/0.jpg)
+
+(https://youtu.be/9xf23JAV5D0)
 
 엔진을 사용하여 캐릭터 IK를 구현했습니다.
 발이 골반 이상으로 올라가지는 못하게 만들었으며 위치에 따라 알맞게 동작하도록 구현했습니다.
